@@ -1,5 +1,7 @@
 # 料理語音助手
 
+> 獲獎：大專校院資訊應用服務創新競賽－產學合作組佳作
+大學專題優秀組別
 > [介紹影片](https://youtu.be/6bVTywDfLlc)
 > 
 > [發表影片](https://youtu.be/i9l10Vul5vE)
@@ -9,8 +11,7 @@
 > [發表簡報2](https://drive.google.com/file/d/1n93ty5UqSlbg4VklHclj0n7o8kokScFf/view?usp=share_link)
 
 
-> 獲獎：大專校院資訊應用服務創新競賽－產學合作組佳作
-大學專題優秀組別
+
 使用 JavaScript / React / Node.js / firebase / Azure API / Git
 利用Azure API提供的意圖辨識與STT （Speech To Text）讓使用者透過語音能操控app，功能包括查詢食譜、食譜步驟（上、下一步）、查詢冰箱食材等…
 
