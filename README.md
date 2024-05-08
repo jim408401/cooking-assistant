@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/59163273/171298201-ea563ae0-696b-46be-9e7b-96314ef927a2.png" width="200">
 
-**功能解說**
+**功能解說：**
 
 使用者可透過以下命令口頭操縱app
 - **查詢食譜**，範例：「幫我查詢有關豬肉和高麗菜的相關食譜」
