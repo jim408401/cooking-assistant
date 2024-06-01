@@ -9,7 +9,7 @@
 [發表簡報1](https://drive.google.com/file/d/1NM7MdJss_6PMXIWSSzM4B2vlLMQ6Hy7g/view?usp=share_link)
 [發表簡報2](https://drive.google.com/file/d/1n93ty5UqSlbg4VklHclj0n7o8kokScFf/view?usp=share_link)
 
-<img src="https://user-images.githubusercontent.com/59163273/171298201-ea563ae0-696b-46be-9e7b-96314ef927a2.png" width="200">
+<img src="首頁.png" width="200">
 
 功能解說：
 
