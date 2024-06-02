@@ -9,7 +9,7 @@
 [發表簡報1](https://drive.google.com/file/d/1NM7MdJss_6PMXIWSSzM4B2vlLMQ6Hy7g/view?usp=share_link)
 [發表簡報2](https://drive.google.com/file/d/1n93ty5UqSlbg4VklHclj0n7o8kokScFf/view?usp=share_link)
 
-<img src="首頁-2.png" width="200"><img src="搜尋結果.png" width="200"><img src="食譜步驟.png" width="200">
+<img src="首頁-2.png" width="200"><img src="搜尋結果.png" width="200">
 
 功能解說：
 
