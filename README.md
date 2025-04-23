@@ -27,8 +27,6 @@ A cooking assistant app that uses Azure Cognitive Services for intent recognitio
 
 - [Demo Video](https://youtu.be/6bVTywDfLlc)
 - [Presentation Video](https://youtu.be/i9l10Vul5vE)
-- [Presentation Slides Part 1](https://drive.google.com/file/d/1NM7MdJss_6PMXIWSSzM4B2vlLMQ6Hy7g/view?usp=share_link)
-- [Presentation Slides Part 2](https://drive.google.com/file/d/1n93ty5UqSlbg4VklHclj0n7o8kokScFf/view?usp=share_link)
 
 ## Screenshots
 
