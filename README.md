@@ -1,10 +1,6 @@
 # Cooking Voice Assistant
 
-**Awards:**
-- Merit Award, University Information Application Innovation Contest (Industry-Academia Collaboration)
-- Outstanding Project Award, University Capstone Projects
-
-## Overview
+## Project Overview
 
 A hands-free cooking assistant app that uses Azure Cognitive Services for intent recognition and Speech-to-Text (STT). Users can control the app entirely by voice, solving the inconvenience of reading recipes while cooking.
 
