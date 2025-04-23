@@ -22,7 +22,6 @@ A cooking assistant app that uses Azure Cognitive Services for intent recognitio
 - **JavaScript**, **React**, **Node.js**
 - **Firebase** (real-time database)
 - **Azure Cognitive Services** (Intent Recognition & Speech-to-Text)
-- **Git** (version control)
 
 ## Resources
 
